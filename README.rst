@@ -83,7 +83,7 @@ Uninstall the global install:
 On OSX
 ------
 
-You need to setup Homebrew (<http://brew.sh/>) since their is no built-in package manager on OSX.
+You need to setup Homebrew (https://brew.sh/) since their is no built-in package manager on OSX.
 
 Build and install all the dependencies:
 
@@ -106,7 +106,7 @@ You can find the .app file in the ``./install/client-macosx`` folder.
 On Android
 ----------
 
-Please make sure you have the Android SDK and NDK installed, and that their paths are properly set. For further information, please visit <https://git.jami.net/savoirfairelinux/jami-client-android>
+Please ensure you have the Android SDK and NDK installed, and that their paths are properly set. For further information, please visit the https://git.jami.net/savoirfairelinux/jami-client-android page.
 
 Build and install locally under this repository:
 
