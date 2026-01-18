@@ -4,7 +4,7 @@ jami-project
 This repository is the master repository for Jami. It contains a build script, build.py,
 that can be used to build and install Jami from source on different platforms.
 
-More documentation can be found on http://docs.jami.net. You may also build the documentation
+More documentation can be found on https://docs.jami.net. You may also build the documentation
 with ``make docs``. The documentation will be built in ``docs/build/html``.
 
 Using build.py
